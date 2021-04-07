@@ -1,4 +1,5 @@
-# foodies_ui
+# foodies_ui![Simulator Screen Shot - iPhone 12 Pro Max - 2021-04-06 at 23 29 57](https://user-images.githubusercontent.com/37434213/113927759-50a33b80-9807-11eb-8d52-82aeca2aaaa1.png)
+
 
 A new Flutter application.
 
